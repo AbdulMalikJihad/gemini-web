@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Web",
+  "description": "Minimal full-screen Android WebView wrapper for Gemini with Google Sign-In, file uploads, and voice input.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
